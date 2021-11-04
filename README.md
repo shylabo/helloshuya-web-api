@@ -1,3 +1,7 @@
 # helloshuya-web-api
 
-for frontend
+## run server with hot reload
+
+```
+air
+```
