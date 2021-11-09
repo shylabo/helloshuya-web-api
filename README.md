@@ -1,9 +1,7 @@
-# helloshuya-web-api
+# web-api-sample
 
 ## run server with hot reload
 
 ```
 air
 ```
-
-## test
